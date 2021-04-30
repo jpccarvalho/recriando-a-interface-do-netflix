@@ -4,6 +4,10 @@
         flex-direction: column;
 
     }
+
+    header .logo{
+        margin: 0;
+    }
     
     .botao{
         margin-top: 5px;
